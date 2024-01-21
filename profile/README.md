@@ -4,3 +4,4 @@
 
 ## The list of our open source projects
 - [Stardust GenshinVoice Web](https://github.com/QingNetwork/Stardust_GenshinVoice_Web)
+- [Fucking Huawei HG8321R](https://github.com/QingNetwork/FuckingHuaweiHG8321R)
